@@ -1,7 +1,6 @@
 # bolier-template
 ```
 📦boiler-template
- ┣ 📂page
  ┣ 📂public
  ┃ ┣ 📜favicon.ico
  ┃ ┣ 📜index.html
@@ -31,6 +30,7 @@
  ┃ ┃ ┃ ┗ 📜axiosInstance.js
  ┃ ┃ ┗ 📂redux
  ┃ ┃ ┃ ┗ 📜store.js
+ ┃ ┃ ┣ 📂page
  ┃ ┣ 📂styles
  ┃ ┃ ┗ 📜global-style.js
  ┃ ┣ 📂utils
