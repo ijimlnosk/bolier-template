@@ -30,7 +30,7 @@
  ┃ ┃ ┃ ┗ 📜axiosInstance.js
  ┃ ┃ ┗ 📂redux
  ┃ ┃ ┃ ┗ 📜store.js
- ┃ ┃ ┣ 📂page
+ ┃ ┣ 📂page
  ┃ ┣ 📂styles
  ┃ ┃ ┗ 📜global-style.js
  ┃ ┣ 📂utils
